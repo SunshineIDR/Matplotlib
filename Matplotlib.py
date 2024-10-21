@@ -6,5 +6,5 @@ ypoints = np.array([10, 20, 20, 10, 10])
 plt.plot(xpoints, ypoints)
 plt.show()
 #  gita add .
-#  git commit -m "Matplotlib"
 #  git push
+#  git commit -m "Matplotlib"
